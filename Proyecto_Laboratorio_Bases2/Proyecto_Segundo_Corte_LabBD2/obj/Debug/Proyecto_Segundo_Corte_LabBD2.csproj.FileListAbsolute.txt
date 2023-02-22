@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\Proyecto_Segundo_Corte_LabBD2\Proyecto_Segundo_Corte_LabBD2\obj\Debug\Proyecto_Segundo_Corte_LabBD2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Proyecto_Segundo_Corte_LabBD2\Proyecto_Segundo_Corte_LabBD2\obj\Debug\Proyecto_Segundo_Corte_LabBD2.Form1.resources
+C:\Users\Lenovo\source\repos\Proyecto_Segundo_Corte_LabBD2\Proyecto_Segundo_Corte_LabBD2\obj\Debug\Proyecto_Segundo_Corte_LabBD2.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Proyecto_Segundo_Corte_LabBD2\Proyecto_Segundo_Corte_LabBD2\obj\Debug\Proyecto_Segundo_Corte_LabBD2.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Proyecto_Segundo_Corte_LabBD2\Proyecto_Segundo_Corte_LabBD2\obj\Debug\Proyecto_Segundo_Corte_LabBD2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Proyecto_Segundo_Corte_LabBD2\Proyecto_Segundo_Corte_LabBD2\bin\Debug\Proyecto_Segundo_Corte_LabBD2.exe.config
+C:\Users\Lenovo\source\repos\Proyecto_Segundo_Corte_LabBD2\Proyecto_Segundo_Corte_LabBD2\bin\Debug\Proyecto_Segundo_Corte_LabBD2.exe
+C:\Users\Lenovo\source\repos\Proyecto_Segundo_Corte_LabBD2\Proyecto_Segundo_Corte_LabBD2\bin\Debug\Proyecto_Segundo_Corte_LabBD2.pdb
+C:\Users\Lenovo\source\repos\Proyecto_Segundo_Corte_LabBD2\Proyecto_Segundo_Corte_LabBD2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Lenovo\source\repos\Proyecto_Segundo_Corte_LabBD2\Proyecto_Segundo_Corte_LabBD2\obj\Debug\Proyecto_Segundo_Corte_LabBD2.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Proyecto_Segundo_Corte_LabBD2\Proyecto_Segundo_Corte_LabBD2\obj\Debug\Proyecto_Segundo_Corte_LabBD2.exe
+C:\Users\Lenovo\source\repos\Proyecto_Segundo_Corte_LabBD2\Proyecto_Segundo_Corte_LabBD2\obj\Debug\Proyecto_Segundo_Corte_LabBD2.pdb
